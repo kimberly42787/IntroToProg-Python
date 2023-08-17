@@ -1,0 +1,3 @@
+Furniture: Couch| Cost: $5067
+Furniture: TV| Cost: $600
+Furniture: Rug| Cost: $89
